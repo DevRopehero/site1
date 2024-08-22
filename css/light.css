@@ -81,3 +81,10 @@ input:focus, textarea:focus {
     width: 100%;
     border-bottom: 1px solid rgb(146, 146, 146);
 }
+
+.card
+{
+    background-color: #ffffff;
+    border: 1px solid rgb(221, 221, 221);
+    
+}
